@@ -1,1 +1,2 @@
-This is my assignment using GitBash, Edward Caluag Aol South Edmonton. April 12, 2023
+This is my assignment using GitBash, Edward Caluag Aol South Edmonton. April 12, 2023.
+Adding another line for my assignment 2. 
